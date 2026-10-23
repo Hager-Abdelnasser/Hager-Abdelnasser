@@ -70,6 +70,7 @@ flowchart LR
     class F,G result
 
     linkStyle default stroke:#818CF8,stroke-width:2px
+```
 
 **ENGINEER → ANALYZE → PREDICT → CREATE VALUE**
 
