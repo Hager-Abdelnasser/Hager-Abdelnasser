@@ -56,29 +56,31 @@ I'm passionate about **Data Engineering, Data Analytics, and Machine Learning**,
 <div align="center">
 
 ```mermaid
-```mermaid
 flowchart LR
-    A["Raw Data"] --> B["Data Extraction"]
-    B --> C["Data Cleaning & Transformation"]
-    C --> D[("Data Warehouse")]
-    D --> E["Data Analytics"]
-    E --> F["Power BI Dashboards"]
-    F --> G["Business Decisions"]
+    A[Raw Data] --> B[Data Extraction]
+    B --> C[Data Cleaning & Transformation]
+    C --> D[(Data Warehouse)]
 
-    D -.-> H["Machine Learning"]
-    H -.-> I["Predictive Insights"]
-    I -.-> G
+    D --> E[Data Analytics]
+    D --> F[Machine Learning]
+
+    E --> G[Power BI Dashboards]
+    F --> H[Predictive Insights]
+
+    G --> I[Business Decisions]
+    H --> I
 
     style A fill:#1e293b,color:#ffffff,stroke:#64748b
     style B fill:#1e3a5f,color:#ffffff,stroke:#38bdf8
     style C fill:#1e3a5f,color:#ffffff,stroke:#38bdf8
     style D fill:#164e63,color:#ffffff,stroke:#22d3ee
     style E fill:#312e81,color:#ffffff,stroke:#818cf8
-    style F fill:#14532d,color:#ffffff,stroke:#4ade80
-    style G fill:#713f12,color:#ffffff,stroke:#facc15
-    style H fill:#312e81,color:#ffffff,stroke:#818cf8
-    style I fill:#14532d,color:#ffffff,stroke:#4ade80
-```
+    style F fill:#312e81,color:#ffffff,stroke:#818cf8
+    style G fill:#14532d,color:#ffffff,stroke:#4ade80
+    style H fill:#14532d,color:#ffffff,stroke:#4ade80
+    style I fill:#713f12,color:#ffffff,stroke:#facc15
+
+ قصدي ده عايزاه ب العرض
 
 <br/>
 
