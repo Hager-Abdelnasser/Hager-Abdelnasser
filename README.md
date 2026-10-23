@@ -122,8 +122,8 @@ flowchart LR
 
 ---
 
-### 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hager-Abdelnasser&theme=tokyonight&hide_border=true&area=true)](https://github.com/Hager-Abdelnasser)
+### 📊 GitHub Stats & Activity
+[![Hager's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hager-Abdelnasser&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Hager-Abdelnasser)
 
 ---
 
