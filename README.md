@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="YOUR-PORTFOLIO-LINK">
+<a href="https://hager-abdelnasser.github.io/Hager_Abdelnasser-Portfolio/">
 <img src="https://img.shields.io/badge/My_Portfolio-Explore_My_Work-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
@@ -126,7 +126,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hager-Abdelnasser&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" alt="GitHub Activity Graph" />
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Hager-Abdelnasser&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Journey](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/Hager-Abdelnasser/Hager-Abdelnasser)" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -150,21 +150,10 @@ flowchart LR
 # 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake.svg"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake.svg">
 </picture>
 
 </div>
