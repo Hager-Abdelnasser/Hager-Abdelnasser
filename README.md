@@ -31,6 +31,7 @@
 
 I'm passionate about **Data Engineering, Data Analytics, and Machine Learning**, with a focus on transforming raw data into reliable systems, meaningful insights, and data-driven solutions.
 
+
 🎓 **Faculty of Computers & Information — Ain Shams University**
 
 ⚙️ **Data Engineering Track — Digital Egypt Pioneers Initiative (DEPI)**
@@ -41,6 +42,7 @@ I'm passionate about **Data Engineering, Data Analytics, and Machine Learning**,
 
 🌍 **GCI World Program 2026** — International data-focused learning experience.
 
+
 ### 🔍 What I'm Focused On
 
 * ⚙️ Building ETL pipelines and data transformation workflows.
@@ -48,15 +50,6 @@ I'm passionate about **Data Engineering, Data Analytics, and Machine Learning**,
 * 📊 Exploring data, analyzing KPIs, and building interactive dashboards.
 * 🤖 Preparing datasets, training machine learning models, and evaluating their performance.
 * 💡 Connecting technical data solutions with real business needs.
-
-🎯 My Mission
-
-I help businesses turn raw data into actionable insights and reliable data solutions. My focus is on building efficient ETL pipelines, designing well-structured databases, and developing interactive dashboards that support smarter, data-driven decisions.
-
-I'm passionate about solving real-world business problems through Data Engineering, Data Analytics, and Machine Learning — delivering solutions that improve data quality, streamline workflows, and uncover valuable business opportunities.
-
-🤝 Open to freelance projects, collaborations, and opportunities to build data-driven solutions that create real business value.
----
 
 # 🔄 The Journey of Data
 
@@ -171,35 +164,6 @@ By combining data engineering foundations with analytical thinking and machine l
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-9B59B6?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
----
-
-# 🎓 Training & Professional Development
-
-### 🤖 Machine Learning — Huawei
-
-Successfully completed machine learning training delivered by Huawei in collaboration with Egypt's Ministry of Youth and Sports.
-
-Key learning areas include:
-
-* Data preprocessing and preparation.
-* Understanding machine learning workflows.
-* Training models on prepared datasets.
-* Evaluating model performance.
-
-### ⚙️ Data Engineering — DEPI
-
-Developing practical skills in data engineering, including data processing, ETL workflows, SQL, and data management.
-
-### 🏢 Data & AI Solutions — HVIA Internship
-
-Contributing to practical data projects involving data extraction, transformation, analytics, and business-oriented insights.
-
-### 🌍 GCI World Program — 2026
-
-An international learning experience hosted by GCI World through the Matsuo-Iwasawa Laboratory at the University of Tokyo.
-
----
 
 # ⭐ Featured Projects
 
