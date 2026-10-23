@@ -123,8 +123,11 @@ flowchart LR
 ---
 
 ### 📊 GitHub Stats & Activity
-[![Hager's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hager-Abdelnasser&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Hager-Abdelnasser)
-
+<p align="center">
+  <a href="https://github.com/Hager-Abdelnasser">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hager-Abdelnasser&show_icons=true&theme=tokyonight&hide_border=true" alt="Hager's GitHub Stats" />
+  </a>
+</p>
 ---
 
 # 📊 GitHub Metrics Dashboard
