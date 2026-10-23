@@ -1,62 +1,27 @@
-# 🔄 The Journey from Raw Data to Intelligent Decisions
+# 👩‍💻 About Me
 
-<div align="center">
+Hi, I'm **Hager Abdelnasser** — focused on building reliable data systems, uncovering business insights, and exploring machine learning solutions.
 
-```mermaid
-flowchart TB
-    A(["📥 RAW DATA<br/>Databases · Files · APIs"])
+🎓 **Scientific Computing** — Faculty of Computers & Information, Ain Shams University
 
-    A --> B
+⚙️ **Data Engineering — DEPI**
+Working toward building reliable ETL pipelines, structured data warehouses, and scalable data workflows.
 
-    subgraph DE["⚙️ DATA ENGINEERING"]
-        direction LR
-        B["Extract & Ingest"] --> C["Clean & Transform"]
-        C --> D["Model & Store"]
-        D --> E["Validate Data Quality"]
-    end
+📊 **Data Analytics**
+Transforming raw data into meaningful insights through SQL, Python, Power BI, and business-focused analysis.
 
-    E --> F
+🤖 **Machine Learning Graduate Trainee**
+Successfully completed machine learning training delivered by Huawei in collaboration with Egypt's Ministry of Youth and Sports, gaining exposure to data preparation, model training, and model evaluation.
 
-    subgraph DA["📊 DATA ANALYTICS"]
-        direction LR
-        F["Explore Data"] --> G["Analyze KPIs"]
-        G --> H["Visualize Insights"]
-    end
+### 🔍 My Core Focus
 
-    E --> I
+* **Data Engineering:** ETL, Data Pipelines, SQL, Data Warehousing, Data Modeling.
+* **Data Analytics:** EDA, Business Intelligence, Power BI, DAX, KPI Analysis.
+* **Machine Learning:** Data Preprocessing, Feature Engineering, Model Training, Model Evaluation.
+* **Data Tools:** Python, Pandas, NumPy, SQL Server, Scikit-learn.
 
-    subgraph ML["🤖 MACHINE LEARNING"]
-        direction LR
-        I["Prepare Features"] --> J["Train Models"]
-        J --> K["Evaluate Performance"]
-    end
+🏢 **Data & AI Solutions Intern — HVIA**
 
-    H --> L
-    K --> L
+🌍 **GCI World Program 2026** — International data-focused learning experience.
 
-    L(["💡 BUSINESS IMPACT<br/>Better Decisions · Measurable Value"])
-
-    classDef source fill:#172554,stroke:#60A5FA,color:#FFFFFF,stroke-width:2px
-    classDef engineering fill:#123047,stroke:#22D3EE,color:#FFFFFF,stroke-width:1.5px
-    classDef analytics fill:#312E81,stroke:#A5B4FC,color:#FFFFFF,stroke-width:1.5px
-    classDef machine fill:#3B1D5A,stroke:#D8B4FE,color:#FFFFFF,stroke-width:1.5px
-    classDef outcome fill:#064E3B,stroke:#34D399,color:#FFFFFF,stroke-width:3px
-
-    class A source
-    class B,C,D,E engineering
-    class F,G,H analytics
-    class I,J,K machine
-    class L outcome
-
-    style DE fill:#0B1928,stroke:#22D3EE,stroke-width:2px
-    style DA fill:#171536,stroke:#818CF8,stroke-width:2px
-    style ML fill:#21112F,stroke:#C084FC,stroke-width:2px
-
-    linkStyle default stroke:#94A3B8,stroke-width:2px
-```
-
-<br>
-
-**ENGINEER THE DATA → ANALYZE THE STORY → TRAIN THE MODEL → CREATE VALUE**
-
-</div>
+**My mission:** Build dependable data pipelines, extract actionable insights, and develop data-driven solutions that solve real business problems.
