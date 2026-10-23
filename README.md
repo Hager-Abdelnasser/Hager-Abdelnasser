@@ -56,52 +56,28 @@ I'm passionate about **Data Engineering, Data Analytics, and Machine Learning**,
 <div align="center">
 
 ```mermaid
-flowchart TB
-    A(["📥 RAW DATA<br/>Files · Databases · APIs"])
+```mermaid
+flowchart LR
+    A["Raw Data"] --> B["Data Extraction"]
+    B --> C["Data Cleaning & Transformation"]
+    C --> D[("Data Warehouse")]
+    D --> E["Data Analytics"]
+    E --> F["Power BI Dashboards"]
+    F --> G["Business Decisions"]
 
-    subgraph DE["⚙️ DATA ENGINEERING"]
-        direction LR
-        B["Extract"] --> C["Clean & Transform"]
-        C --> D["Data Modeling"]
-        D --> E["Data Warehouse"]
-    end
+    D -.-> H["Machine Learning"]
+    H -.-> I["Predictive Insights"]
+    I -.-> G
 
-    subgraph ANALYTICS["📊 DATA ANALYTICS"]
-        direction LR
-        F["Explore"] --> G["Analyze KPIs"]
-        G --> H["Power BI Dashboards"]
-    end
-
-    subgraph ML["🤖 MACHINE LEARNING"]
-        direction LR
-        I["Prepare Features"] --> J["Train Models"]
-        J --> K["Evaluate Models"]
-    end
-
-    A --> B
-    E --> F
-    E --> I
-    H --> L(["💡 BUSINESS INSIGHTS"])
-    K --> L
-    L --> M(["🚀 BETTER DECISIONS<br/>Business Value"])
-
-    classDef source fill:#172554,stroke:#60A5FA,color:#FFFFFF,stroke-width:2px
-    classDef engineering fill:#123047,stroke:#22D3EE,color:#FFFFFF,stroke-width:1.5px
-    classDef analytics fill:#312E81,stroke:#A5B4FC,color:#FFFFFF,stroke-width:1.5px
-    classDef machine fill:#3B1D5A,stroke:#D8B4FE,color:#FFFFFF,stroke-width:1.5px
-    classDef outcome fill:#064E3B,stroke:#34D399,color:#FFFFFF,stroke-width:2px
-
-    class A source
-    class B,C,D,E engineering
-    class F,G,H analytics
-    class I,J,K machine
-    class L,M outcome
-
-    style DE fill:#0B1928,stroke:#22D3EE,stroke-width:1.5px
-    style ANALYTICS fill:#171536,stroke:#818CF8,stroke-width:1.5px
-    style ML fill:#21112F,stroke:#C084FC,stroke-width:1.5px
-
-    linkStyle default stroke:#94A3B8,stroke-width:1.5px
+    style A fill:#1e293b,color:#ffffff,stroke:#64748b
+    style B fill:#1e3a5f,color:#ffffff,stroke:#38bdf8
+    style C fill:#1e3a5f,color:#ffffff,stroke:#38bdf8
+    style D fill:#164e63,color:#ffffff,stroke:#22d3ee
+    style E fill:#312e81,color:#ffffff,stroke:#818cf8
+    style F fill:#14532d,color:#ffffff,stroke:#4ade80
+    style G fill:#713f12,color:#ffffff,stroke:#facc15
+    style H fill:#312e81,color:#ffffff,stroke:#818cf8
+    style I fill:#14532d,color:#ffffff,stroke:#4ade80
 ```
 
 <br/>
