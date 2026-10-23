@@ -32,9 +32,13 @@
 I'm passionate about **Data Engineering, Data Analytics, and Machine Learning**, with a focus on transforming raw data into reliable systems, meaningful insights, and data-driven solutions.
 
 🎓 **Faculty of Computers & Information — Ain Shams University**
+
 ⚙️ **Data Engineering Track — Digital Egypt Pioneers Initiative (DEPI)**
+
 📊 **Data & AI Solutions Intern — HVIA**
+
 🤖 **Machine Learning Training Graduate — Huawei**, in collaboration with Egypt's Ministry of Youth and Sports.
+
 🌍 **GCI World Program 2026** — International data-focused learning experience.
 
 ### 🔍 What I'm Focused On
