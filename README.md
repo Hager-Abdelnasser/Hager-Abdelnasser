@@ -46,16 +46,15 @@
 # 🔄 The Journey of Data
 
 <div align="center">
-
 ```mermaid
 flowchart LR
-    A(["📥 Raw Data"]) --> B["⚙️ Extract & Clean"]
-    B --> C["🗄️ Data Warehouse"]
-    C --> D["📊 Analytics & BI"]
-    C --> E["🤖 Train ML Models"]
-    D --> F(["💡 Insights"])
-    E --> F
-    F --> G(["🚀 Business Value"])
+    A(["📥 Raw Data"]) -.- B["⚙️ Extract & Clean"]
+    B -.- C["🗄️ Data Warehouse"]
+    C -.- D["📊 Analytics & BI"]
+    C -.- E["🤖 Train ML Models"]
+    D -.- F(["💡 Insights"])
+    E -.- F
+    F -.- G(["🚀 Business Value"])
 
     classDef raw fill:#172554,stroke:#60A5FA,color:#fff,stroke-width:2px
     classDef eng fill:#123047,stroke:#22D3EE,color:#fff
@@ -69,8 +68,7 @@ flowchart LR
     class E ml
     class F,G result
 
-    linkStyle default stroke:#818CF8,stroke-width:2px
-```
+    linkStyle default stroke:#818CF8,stroke-width:2px,stroke-dasharray: 5 5,animation: dash 0.5s linear infinite
 
 **ENGINEER → ANALYZE → PREDICT → CREATE VALUE**
 
