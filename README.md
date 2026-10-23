@@ -217,6 +217,10 @@ class HagerAbdelnasser:
     def say_hi(self):
         print("Thanks for visiting my profile 🚀")
 ```
+<blockquote align="center">
+  💡 <b><i>"Without data, you're just another person with an opinion."</i></b><br>
+  <i>«بدون بيانات، أنت مجرد شخص آخر يمتلك رأياً.»</i>
+</blockquote>
 
 </div>
 
