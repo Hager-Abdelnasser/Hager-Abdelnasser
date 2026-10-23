@@ -122,13 +122,8 @@ flowchart LR
 
 ---
 
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Hager-Abdelnasser&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Journey](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/Hager-Abdelnasser/Hager-Abdelnasser)" width="100%" alt="GitHub Activity Graph" />
-
-</div>
+### 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hager-Abdelnasser&theme=tokyonight&hide_border=true&area=true)](https://github.com/Hager-Abdelnasser)
 
 ---
 
