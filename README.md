@@ -46,6 +46,7 @@
 # 🔄 The Journey of Data
 
 <div align="center">
+
 ```mermaid
 flowchart LR
     A(["📥 Raw Data"]) -.- B["⚙️ Extract & Clean"]
@@ -68,7 +69,7 @@ flowchart LR
     class E ml
     class F,G result
 
-    linkStyle default stroke:#818CF8,stroke-width:2px,stroke-dasharray: 5 5,animation: dash 0.5s linear infinite
+    linkStyle default stroke:#818CF8,stroke-width:2px
 
 **ENGINEER → ANALYZE → PREDICT → CREATE VALUE**
 
