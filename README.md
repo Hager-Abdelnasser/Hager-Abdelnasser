@@ -45,8 +45,13 @@ I'm passionate about **Data Engineering, Data Analytics, and Machine Learning**,
 * 🤖 Preparing datasets, training machine learning models, and evaluating their performance.
 * 💡 Connecting technical data solutions with real business needs.
 
-**My goal:** To become a strong Data Engineer and Data Analyst who can build dependable data systems and turn data into measurable business value.
+🎯 My Mission
 
+I help businesses turn raw data into actionable insights and reliable data solutions. My focus is on building efficient ETL pipelines, designing well-structured databases, and developing interactive dashboards that support smarter, data-driven decisions.
+
+I'm passionate about solving real-world business problems through Data Engineering, Data Analytics, and Machine Learning — delivering solutions that improve data quality, streamline workflows, and uncover valuable business opportunities.
+
+🤝 Open to freelance projects, collaborations, and opportunities to build data-driven solutions that create real business value.
 ---
 
 # 🔄 The Journey of Data
