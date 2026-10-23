@@ -1,311 +1,230 @@
+````markdown
+<!-- Header -->
 <div align="center">
 
-<a href="https://github.com/Hager-Abdelnasser">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hager%20Abdelnasser%20Seddiq&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hager%20Abdelnasser%20Seddiq&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+Data+Analyst;Python+%7C+SQL+%7C+ETL+%7C+Data+Warehousing;Power+BI+%7C+Business+Intelligence;Machine+Learning+%7C+Data-Driven+Solutions;Turning+Raw+Data+into+Business+Value" />
+# Hi, I'm Hager 👋
 
-<br/>
+### Data Engineer | Data Analyst | Machine Learning Enthusiast
 
-<a href="YOUR-PORTFOLIO-LINK">
-<img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Explore_My_Work-7C4DFF?style=for-the-badge" />
-</a>
-<a href="https://www.linkedin.com/in/hager-abdelnasser-b05a95356">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Reliable+Data+Pipelines;Transforming+Data+into+Business+Insights;Creating+Data-Driven+Solutions" alt="Typing SVG" />
+</p>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Data_Engineering-087E8B?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-Data_Analytics-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/EXPLORING-Machine_Learning-9B59B6?style=flat-square" />
+<p>
+  <a href="https://linkedin.com/in/hager-abdelnasser-b05a95356">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hagerabdelnasser933@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
-
-# 👋 Hello, I'm Hager!
 
 ## 👩‍💻 About Me
 
-I'm passionate about **Data Engineering, Data Analytics, and Machine Learning**, with a focus on transforming raw data into reliable systems, meaningful insights, and data-driven solutions.
+I'm passionate about building data solutions that help businesses make smarter decisions.
 
+- 🔹 **Data Engineering:** Building ETL pipelines and designing databases.
+- 🔹 **Data Analytics:** Transforming data into actionable business insights.
+- 🔹 **Machine Learning:** Exploring predictive modeling and data-driven solutions.
+- 🔹 **Experience:** Data & AI Solutions Intern at HVIA.
+- 🔹 **Learning:** Data Engineering track at DEPI.
+- 🔹 **Training:** Machine Learning training through Huawei in collaboration with Egypt's Ministry of Youth and Sports.
+- 🔹 **International Experience:** GCI World Program 2026, hosted by GCI World by Matsuo-Iwasawa Lab, The University of Tokyo.
 
-🎓 **Faculty of Computers & Information — Ain Shams University**
+---
 
-⚙️ **Data Engineering Track — Digital Egypt Pioneers Initiative (DEPI)**
+## 🎯 My Mission
 
-📊 **Data & AI Solutions Intern — HVIA**
+I help businesses turn raw data into actionable insights and reliable data solutions. My focus is on building efficient ETL pipelines, designing well-structured databases, and developing interactive dashboards that support smarter, data-driven decisions.
 
-🤖 **Machine Learning Training Graduate — Huawei**, in collaboration with Egypt's Ministry of Youth and Sports.
+I'm passionate about solving real-world business problems through **Data Engineering, Data Analytics, and Machine Learning** — improving data quality, streamlining workflows, and uncovering valuable business opportunities.
 
-🌍 **GCI World Program 2026** — International data-focused learning experience.
+🤝 **Open to freelance projects, collaborations, and opportunities to build data-driven solutions that create real business value.**
 
+---
 
-### 🔍 What I'm Focused On
+## 🔄 Data Flow
 
-* ⚙️ Building ETL pipelines and data transformation workflows.
-* 🗄️ Designing relational databases and analytical data warehouses.
-* 📊 Exploring data, analyzing KPIs, and building interactive dashboards.
-* 🤖 Preparing datasets, training machine learning models, and evaluating their performance.
-* 💡 Connecting technical data solutions with real business needs.
+```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 45, "rankSpacing": 90, "curve": "linear"}, "theme": "dark"}}%%
+flowchart LR
+    A["Raw Data"] --> B["Extract & Clean"]
+    B --> C[("Data Warehouse")]
 
-# 🔄 The Journey of Data
+    C --> D["Analytics & BI"]
+    C --> E["Train ML Models"]
+
+    D --> F["Insights"]
+    E --> F
+
+    F --> G["Business Value"]
+
+    style A fill:#1e293b,color:#ffffff,stroke:#64748b,stroke-width:2px
+    style B fill:#1e3a5f,color:#ffffff,stroke:#38bdf8,stroke-width:2px
+    style C fill:#164e63,color:#ffffff,stroke:#22d3ee,stroke-width:2px
+    style D fill:#312e81,color:#ffffff,stroke:#818cf8,stroke-width:2px
+    style E fill:#312e81,color:#ffffff,stroke:#818cf8,stroke-width:2px
+    style F fill:#14532d,color:#ffffff,stroke:#4ade80,stroke-width:2px
+    style G fill:#713f12,color:#ffffff,stroke:#facc15,stroke-width:2px
+````
+
+---
+
+## 🛠️ Skills & Tools
+
+**Programming & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+
+**Data Engineering**
+
+![ETL](https://img.shields.io/badge/ETL_Pipelines-0F766E?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-155E75?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-1D4ED8?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+
+**Analytics & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
+
+**Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[Data Extraction]
-    B --> C[Data Cleaning & Transformation]
-    C --> D[(Data Warehouse)]
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hager-Abdelnasser&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-    D --> E[Data Analytics]
-    D --> F[Machine Learning]
-
-    E --> G[Power BI Dashboards]
-    F --> H[Predictive Insights]
-
-    G --> I[Business Decisions]
-    H --> I
-
-    style A fill:#1e293b,color:#ffffff,stroke:#64748b
-    style B fill:#1e3a5f,color:#ffffff,stroke:#38bdf8
-    style C fill:#1e3a5f,color:#ffffff,stroke:#38bdf8
-    style D fill:#164e63,color:#ffffff,stroke:#22d3ee
-    style E fill:#312e81,color:#ffffff,stroke:#818cf8
-    style F fill:#312e81,color:#ffffff,stroke:#818cf8
-    style G fill:#14532d,color:#ffffff,stroke:#4ade80
-    style H fill:#14532d,color:#ffffff,stroke:#4ade80
-    style I fill:#713f12,color:#ffffff,stroke:#facc15
-
- قصدي ده عايزاه ب العرض
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hager-Abdelnasser&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-**ENGINEER THE DATA → DISCOVER INSIGHTS → TRAIN MODELS → CREATE VALUE**
+<img src="https://streak-stats.demolab.com?user=Hager-Abdelnasser&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 
 </div>
 
 ---
 
-# 💡 What I Bring to Your Business
-
-Data becomes valuable when it is reliable, understandable, and actionable.
-
-I focus on building organized data workflows, preparing trustworthy datasets, and transforming information into insights that support better business decisions.
-
-By combining data engineering foundations with analytical thinking and machine learning knowledge, I aim to understand not only **how to process data**, but also **how to extract value from it**.
-
-> **Reliable data. Meaningful insights. Smarter decisions.**
-
----
-
-# 🛠 Skills & Tools
-
-### 💻 Programming & Databases
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres,mongodb,git,github&perline=7" />
-
-</div>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-### ⚙️ Data Engineering
-
-![ETL](https://img.shields.io/badge/ETL-7C4DFF?style=for-the-badge)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-2F81F7?style=for-the-badge)
-![Star Schema](https://img.shields.io/badge/Star_Schema-087E8B?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
-
-### 📊 Data Analytics & Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-6C63FF?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
-
-### 🤖 Machine Learning & Applied AI
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-9B59B6?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-# ⭐ Featured Projects
-
-### ⭐ 1. Olist End-to-End Data Pipeline & Analytics
-
-**Python · Pandas · SQLAlchemy · SQL Server · Star Schema · Power BI · DAX**
-
-An end-to-end e-commerce data project combining data engineering and business analytics.
-
-* Processed nine raw e-commerce datasets.
-* Built an ETL workflow using Python and Pandas.
-* Loaded transformed data into SQL Server.
-* Designed a Star Schema with one fact table and seven dimension tables.
-* Developed Power BI reports for order and customer analytics.
-
-🔗 [Explore Repository](https://github.com/Hager-Abdelnasser/Olist-End-to-End-Data-Pipeline-And-Analytics)
-
----
-
-### 🏛 2. SQL Server Data Warehouse ETL
-
-**SQL Server · ETL · Data Warehousing**
-
-A data warehousing project focused on organizing data and implementing ETL workflows using SQL Server.
-
-🔗 [Explore Repository](https://github.com/Hager-Abdelnasser/SQL-Server-Data-Warehouse-ETL)
-
----
-
-### 🔄 3. Python-SQL E-Commerce ETL
-
-**Python · SQL · Data Transformation**
-
-An ETL project demonstrating how e-commerce data can be processed and loaded into a SQL database.
-
-🔗 [Explore Repository](https://github.com/Hager-Abdelnasser/Python-SQL-Ecommerce-ETL)
-
----
-
-### 📊 4. AdventureWorks Sales Analytics Dashboard
-
-**Power BI · DAX · Business Intelligence**
-
-An interactive dashboard designed to analyze sales performance and business KPIs.
-
-🔗 [Explore Repository](https://github.com/Hager-Abdelnasser/AdventureWorks-Sales-Analytics-Dashboard-PowerBI)
-
----
-
-### 🍕 5. Pizza Sales Analytics
-
-**Power BI · Sales KPIs · Data Visualization**
-
-A sales analytics project focused on identifying trends, evaluating performance, and presenting findings through visualizations.
-
-🔗 [Explore Repository](https://github.com/Hager-Abdelnasser/Pizza-Sales-Analytics-PowerBI)
-
----
-
-### 🛒 6. E-Commerce Tableau Dashboard
-
-**Tableau · Data Visualization · E-Commerce Analytics**
-
-A dashboard focused on e-commerce performance and business data visualization.
-
-🔗 [Explore Repository](https://github.com/Hager-Abdelnasser/E-Commerce-Tableau-Dashboard)
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hager-Abdelnasser&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hager-Abdelnasser&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hager-Abdelnasser&theme=tokyonight&hide_border=true&background=0D1117" width="80%" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-# 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hager-Abdelnasser&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hager-Abdelnasser&theme=tokyonight" width="49%" alt="Languages by Repository" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hager-Abdelnasser&theme=tokyonight" width="49%" alt="GitHub Statistics" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake.svg"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Hager-Abdelnasser/Hager-Abdelnasser/output/github-snake.svg" width="100%">
 </picture>
 
 </div>
 
 ---
 
-# 📬 Let's Connect
+## 🚀 Featured Projects
 
-<div align="center">
+### 1. Olist End-to-End Data Pipeline & Analytics
 
-<a href="https://linkedin.com/in/hager-abdelnasser-b05a95356">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Built an end-to-end ETL pipeline using Python and SQL Server to transform e-commerce datasets into a Star Schema, then developed Power BI dashboards to uncover business insights.
 
-<a href="mailto:hagerabdelnasser933@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**Tech Stack:** Python · Pandas · SQL Server · SQLAlchemy · Star Schema · Power BI · DAX
 
-<a href="https://github.com/Hager-Abdelnasser">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[View Project →](https://github.com/Hager-Abdelnasser/Olist-End-to-End-Data-Pipeline-And-Analytics)
 
-<br/><br/>
+### 2. SQL Server Data Warehouse & ETL
 
-**Build reliable data. Discover meaningful insights. Create business value.**
+Designed a data warehouse solution with structured data processing and ETL workflows.
 
-</div>
+**Tech Stack:** SQL Server · SQL · Data Warehousing · ETL
+
+[View Project →](https://github.com/Hager-Abdelnasser/SQL-Server-Data-Warehouse-ETL)
+
+### 3. Python & SQL E-commerce ETL
+
+Developed a data processing workflow integrating Python and SQL for e-commerce data.
+
+**Tech Stack:** Python · SQL · ETL · Data Transformation
+
+[View Project →](https://github.com/Hager-Abdelnasser/Python-SQL-Ecommerce-ETL)
+
+### 4. AdventureWorks Sales Analytics Dashboard
+
+Analyzed sales performance and presented business insights through an interactive Power BI dashboard.
+
+**Tech Stack:** Power BI · DAX · Data Analysis · Data Visualization
+
+[View Project →](https://github.com/Hager-Abdelnasser/AdventureWorks-Sales-Analytics-Dashboard-PowerBI)
+
+### 5. Pizza Sales Analytics
+
+Analyzed pizza sales data to identify sales trends, product performance, and business opportunities.
+
+**Tech Stack:** Power BI · Data Analysis · Visualization
+
+[View Project →](https://github.com/Hager-Abdelnasser/Pizza-Sales-Analytics-PowerBI)
+
+### 6. E-Commerce Tableau Dashboard
+
+Created an interactive dashboard to explore e-commerce performance and visualize key business metrics.
+
+**Tech Stack:** Tableau · Data Visualization · Business Analytics
+
+[View Project →](https://github.com/Hager-Abdelnasser/E-Commerce-Tableau-Dashboard)
+
+---
+
+## 📫 Let's Connect
+
+I'm open to freelance projects, collaborations, and opportunities to help businesses make better use of their data.
+
+<p align="left">
+  <a href="https://linkedin.com/in/hager-abdelnasser-b05a95356">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hagerabdelnasser933@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-```python
-class HagerAbdelnasser:
-    university = "Ain Shams University"
-    focus = ["Data Engineering", "Data Analytics", "Machine Learning"]
-    philosophy = "Turn data into decisions"
+### 💡 Turning Data into Decisions, One Project at a Time.
 
-    def keep_building(self):
-        return "Learn. Build. Analyze. Improve. 🚀"
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
 
 </div>
+```
