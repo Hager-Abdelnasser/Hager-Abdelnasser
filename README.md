@@ -157,6 +157,12 @@ flowchart LR
 
 # ⭐ Featured Projects
 
+### ⭐ Auspify-Technologies-Internship
+
+Data Analysis Using Python Netflix dataset preprocessing, exploratory data analysis (EDA), trend identification, and data visualization using Pandas, Matplotlib, and Seaborn.
+
+🔗 [Explore Repository](https://github.com/Hager-Abdelnasser/Auspify-Technologies-Internship)
+
 ### ⭐ Olist End-to-End Data Pipeline & Analytics
 
 End-to-end e-commerce ETL pipeline and analytics solution using Python, SQL Server, Star Schema, and Power BI.
