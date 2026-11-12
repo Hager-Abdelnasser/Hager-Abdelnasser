@@ -157,6 +157,12 @@ flowchart LR
 
 # ⭐ Featured Projects
 
+### 🐍 Codealpha Python Programming Internship Projects 
+
+Four Python console projects built during the CodeAlpha Python Programming Internship: Hangman Game, Stock Portfolio Tracker, Email Extractor (automation), and a Basic Chatbot.
+
+🔗 [Explore Repository](https://github.com/Hager-Abdelnasser/Codealpha_Tasks) 
+
 ### ⭐ Auspify-Technologies-Internship
 
 Data Analysis Using Python Netflix dataset preprocessing, exploratory data analysis (EDA), trend identification, and data visualization using Pandas, Matplotlib, and Seaborn.
